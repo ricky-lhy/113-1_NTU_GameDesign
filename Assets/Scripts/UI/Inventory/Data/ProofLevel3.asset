@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a470c22660dfe44d8344875d57dd0f5, type: 3}
+  m_Name: ProofLevel3
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 0
+  <MaxStackSize>k__BackingField: 1
+  <Name>k__BackingField: "\u7834\u788E\u93E1\u5F71\u7684\u6B98\u5149"
+  <Description>k__BackingField: "\u9019\u9846\u7403\u9AD4\u6B98\u7559\u8457\u7834\u788E\u93E1\u5F71\u7684\u529B\u91CF\uFF0C\u89F8\u78B0\u6642\u5F77\u5F7F\u80FD\u611F\u53D7\u5230\u58D3\u6291\u7684\u5426\u5B9A\u8207\u75DB\u82E6\u3002\u88C2\u75D5\u4E2D\u96B1\u85CF\u8457\u5FAE\u5F31\u7684\u5149\u8292\uFF1A\u88C2\u7E2B\u4E26\u975E\u7D50\u675F\uFF0C\u800C\u662F\u5149\u9032\u5165\u7684\u8D77\u9EDE\u3002"
+  <ItemImage>k__BackingField: {fileID: 21300000, guid: 2fe2db820a8ceee40aca09f654e5f3c8, type: 3}

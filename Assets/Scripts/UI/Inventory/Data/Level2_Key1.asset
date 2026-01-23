@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a470c22660dfe44d8344875d57dd0f5, type: 3}
+  m_Name: Level2_Key1
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 0
+  <MaxStackSize>k__BackingField: 1
+  <Name>k__BackingField: "\u93FD\u9435\u9470\u5319"
+  <Description>k__BackingField: "\u4F48\u6EFF\u93FD\u6F2C\u7684\u5C0F\u9470\u5319\uFF0C\u7FFB\u5230\u80CC\u9762\u9084\u80FD\u96B1\u7D04\u770B\u898B\u5C11\u8A31\u8840\u8DE1\uFF0C\u60F3\u5FC5\u66FE\u7D93\u6709\u52C7\u58EB\u4E5F\u5230\u9054\u9019\u88E1\u5427\u3002"
+  <ItemImage>k__BackingField: {fileID: -1633607162, guid: c3e3439440872ef4bb78167ba4d25c56, type: 3}

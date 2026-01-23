@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 435f0652bee5d9544bf51ef871203fed, type: 3}
+  m_Name: Level4_DropsList
+  m_EditorClassIdentifier: 
+  dropList:
+  - {fileID: 5076100270417372000, guid: fd5ea557ae692a848942fc5ff999bf35, type: 3}
+  - {fileID: 7856617442319574001, guid: 7d638d6704769d843ae25464cf9d7e96, type: 3}
+  - {fileID: 5076100270417372000, guid: 9ffd8d5140f390a4988af763f7ec52e7, type: 3}

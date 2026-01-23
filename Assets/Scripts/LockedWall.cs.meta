@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: c046b474355d51848811e83163413199
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - playerInventoryData: {instanceID: 0}
+  - targetKey: {instanceID: 0}
+  - unlockSound: {fileID: 8300000, guid: 217a94a0abcc3e544b87174bb0649d6e, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

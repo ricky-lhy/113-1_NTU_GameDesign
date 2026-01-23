@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec7a3a1746f379546b43904947bfaaba, type: 3}
+  m_Name: Apple
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 1
+  <MaxStackSize>k__BackingField: 99
+  <Name>k__BackingField: "\u8840\u7D05\u860B\u679C"
+  <Description>k__BackingField: "\u5728\u60E1\u5922\u88E1\u751F\u9577\u7684\u679C\u5BE6\uFF0C\u5176\u9BAE\u8C54\u6B32\u6EF4\u7684\u5916\u8868\u4EE4\u4EBA\u8FF7\u9189\u3002\u53EF\u4EE5\u56DE\u5FA9\u751F\u547D\u503C5\u9EDE\u3002"
+  <ItemImage>k__BackingField: {fileID: 21300000, guid: 7660b40d1800e9d4cbc840c07030de47, type: 3}
+  modifierData:
+  - statsModifier: {fileID: 11400000, guid: c87dff84b6c2c7b40a1581104da604b8, type: 2}
+    value: 5

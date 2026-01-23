@@ -1,0 +1,38 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+public class B4_IdleState : IdleState
+{
+    private Boss4 enemy;
+    public B4_IdleState(Entity entity, FiniteStateMachine stateMachine, string animBoolName, D_IdleState stateData, Boss4 enemy) : base(entity, stateMachine, animBoolName, stateData)
+    {
+        this.enemy = enemy;
+    }
+    public override void Enter()
+    {
+        base.Enter();
+        
+    }
+    public override void Exit()
+    {
+        base.Exit();
+    }
+    public override void LogicUpdate()
+    {
+        base.LogicUpdate();
+        if (isPlayerInMinAgroRange)
+        {
+            stateMachine.ChangeState(enemy.playerDetectedState);
+        }
+        else if (isIdleTimeOver)
+        {
+            stateMachine.ChangeState(enemy.moveState);
+        }
+    }
+    public override void PhysicsUpdate()
+    {
+        base.PhysicsUpdate();
+        
+    }
+}

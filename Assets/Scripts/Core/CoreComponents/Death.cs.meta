@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: b98cfa731ab7a7646b349b9ac50d7d4e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - drops: {instanceID: 0}
+  - playerSword: {fileID: 11400000, guid: 4bb98ef8574af5c44aa804a0fcae59cb, type: 2}
+  - playerBow: {fileID: 11400000, guid: f0742ca64ad56a34d8096cb2466020b0, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

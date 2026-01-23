@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Ladder
+  - ParticleContainer
+  - BossGate
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Weapon
+  - Dead
+  - Player
+  - Damageable
+  - Item
+  - Projectile
+  - Combat
+  - PlayerProjectile
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3818335949
+    locked: 0
+  - name: Foreground
+    uniqueID: 1619468299
+    locked: 0
+  - name: Decoration
+    uniqueID: 3272658095
+    locked: 0
+  - name: Platforms
+    uniqueID: 2780834323
+    locked: 0
+  - name: Item
+    uniqueID: 3265835575
+    locked: 0
+  - name: Enemy
+    uniqueID: 2019490783
+    locked: 0
+  - name: Player
+    uniqueID: 3474424731
+    locked: 0

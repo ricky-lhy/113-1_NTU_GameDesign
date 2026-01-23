@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ec7a3a1746f379546b43904947bfaaba, type: 3}
+  m_Name: LargePotion
+  m_EditorClassIdentifier: 
+  <IsStackable>k__BackingField: 1
+  <MaxStackSize>k__BackingField: 99
+  <Name>k__BackingField: "\u56DE\u5FA9\u85E5(\u5927)"
+  <Description>k__BackingField: "\u50B3\u8AAA\u4E2D\u7684\u7A76\u6975\u73CD\u54C1\uFF0C\u7531\u5404\u7A2E\u9B54\u85E5\u3001\u9748\u8349\uFF0C\u52A0\u4E0A\u5922\u5883\u7CBE\u83EF\u53CA\u5973\u795E\u4E4B\u6DDA\u878D\u5408\u800C\u6210\uFF0C\u5C0D\u7015\u6B7B\u4E4B\u4EBA\u4F86\u8AAA\u662F\u751F\u5B58\u7684\u5E0C\u671B\u3002"
+  <ItemImage>k__BackingField: {fileID: 518924155, guid: 343ee7b4daf71f44b9dc8673b73e25f7, type: 3}
+  modifierData:
+  - statsModifier: {fileID: 11400000, guid: c87dff84b6c2c7b40a1581104da604b8, type: 2}
+    value: 80
